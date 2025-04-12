@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Goeun. \n
-I'm 22 years old. \n
-I'm double majoring in Mathematics Education and Computer Engineering. \n
+My name is Goeun. <br/>
+I'm 22 years old. 
+I'm double majoring in Mathematics Education and Computer Engineering. 
 Feel free to contact me thdrhdms1@naver.com if you want to talk😄.
 <!--
 **goeunu/goeunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
