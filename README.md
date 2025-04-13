@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Goeun. <br/>
+**My name is Goeun. <br/>**
 I'm 22 years old. <br/>
 I'm double majoring in Mathematics Education and Computer Engineering. <br/>
 Feel free to contact me thdrhdms1@naver.com if you want to talk😄. <br/>
