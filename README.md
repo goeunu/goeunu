@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=290&section=header&text=Goeun%20diario&fontSize=90)
 ## Hi there 👋
-**My name is Goeun. <br/>**
-I'm 22 years old. <br/>
-I'm double majoring in Mathematics Education and Computer Engineering. <br/>
-Feel free to contact me thdrhdms1@naver.com if you want to talk😄. <br/>
+**My name is Goeun.**
+🎓 I'm a 22-year-old student double majoring in Mathematics Education and Computer Engineering. <br/>
+💬 Feel free to reach out: thdrhdms1@naver.com <br/>
+
+🌱 I'm interested in AI, educational technology, and web development.
 <!--
 **goeunu/goeunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
