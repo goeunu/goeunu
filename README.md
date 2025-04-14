@@ -6,7 +6,7 @@
 💬 Feel free to reach out: thdrhdms1@naver.com <br/>
 
 🌱 I'm interested in AI, educational technology, and web development. <br/>
-📚 Currently learning Java and working on a microcontroller-based project.
+📚 Currently learning C and working on a microcontroller-based project.
 
 
 <!--
