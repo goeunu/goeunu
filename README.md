@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Goeun%20diario&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Goeun%20diario&fontSize=80)
 ## Hi there 👋
 **My name is Goeun. <br/>**
 I'm 22 years old. <br/>
